@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Classes>
+  <Class Name="eClassificationAnimal" />
+  <Class Name="eFavoriteFood" />
+  <Class Name="Animal" />
+  <Class Name="CustomCommentAttribute" />
+  <Class Name="Cow" Comment="Этот класс представляет корову." />
+  <Class Name="Lion" Comment="Этот класс представляет льва." />
+  <Class Name="Pig" Comment="Этот класс представляет свинью." />
+</Classes>

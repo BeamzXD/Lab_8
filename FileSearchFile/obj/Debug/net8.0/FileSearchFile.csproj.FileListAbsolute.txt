@@ -1,0 +1,15 @@
+/Users/beamz/Documents/Институт/3_семестр/Алгоритмические языки/Лабы/Lab_8/FileSearchFile/bin/Debug/net8.0/FileSearchFile
+/Users/beamz/Documents/Институт/3_семестр/Алгоритмические языки/Лабы/Lab_8/FileSearchFile/bin/Debug/net8.0/FileSearchFile.deps.json
+/Users/beamz/Documents/Институт/3_семестр/Алгоритмические языки/Лабы/Lab_8/FileSearchFile/bin/Debug/net8.0/FileSearchFile.runtimeconfig.json
+/Users/beamz/Documents/Институт/3_семестр/Алгоритмические языки/Лабы/Lab_8/FileSearchFile/bin/Debug/net8.0/FileSearchFile.dll
+/Users/beamz/Documents/Институт/3_семестр/Алгоритмические языки/Лабы/Lab_8/FileSearchFile/bin/Debug/net8.0/FileSearchFile.pdb
+/Users/beamz/Documents/Институт/3_семестр/Алгоритмические языки/Лабы/Lab_8/FileSearchFile/obj/Debug/net8.0/FileSearchFile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beamz/Documents/Институт/3_семестр/Алгоритмические языки/Лабы/Lab_8/FileSearchFile/obj/Debug/net8.0/FileSearchFile.AssemblyInfoInputs.cache
+/Users/beamz/Documents/Институт/3_семестр/Алгоритмические языки/Лабы/Lab_8/FileSearchFile/obj/Debug/net8.0/FileSearchFile.AssemblyInfo.cs
+/Users/beamz/Documents/Институт/3_семестр/Алгоритмические языки/Лабы/Lab_8/FileSearchFile/obj/Debug/net8.0/FileSearchFile.csproj.CoreCompileInputs.cache
+/Users/beamz/Documents/Институт/3_семестр/Алгоритмические языки/Лабы/Lab_8/FileSearchFile/obj/Debug/net8.0/FileSearchFile.sourcelink.json
+/Users/beamz/Documents/Институт/3_семестр/Алгоритмические языки/Лабы/Lab_8/FileSearchFile/obj/Debug/net8.0/FileSearchFile.dll
+/Users/beamz/Documents/Институт/3_семестр/Алгоритмические языки/Лабы/Lab_8/FileSearchFile/obj/Debug/net8.0/refint/FileSearchFile.dll
+/Users/beamz/Documents/Институт/3_семестр/Алгоритмические языки/Лабы/Lab_8/FileSearchFile/obj/Debug/net8.0/FileSearchFile.pdb
+/Users/beamz/Documents/Институт/3_семестр/Алгоритмические языки/Лабы/Lab_8/FileSearchFile/obj/Debug/net8.0/FileSearchFile.genruntimeconfig.cache
+/Users/beamz/Documents/Институт/3_семестр/Алгоритмические языки/Лабы/Lab_8/FileSearchFile/obj/Debug/net8.0/ref/FileSearchFile.dll
